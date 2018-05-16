@@ -1,0 +1,5 @@
+0 marin 5
+1 ivan 4.5
+2 lili 5.4
+3 aleks 5.2
+4 petyr 4.4

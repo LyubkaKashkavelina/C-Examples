@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495565725 source:c:\users\toshiba1\documents\kursova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495104301 source:c:\lectures\pik2\samples\2017\studentlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TStudent.h"
+
+1495101546 c:\lectures\pik2\samples\2017\studentlist\tstudent.h
+

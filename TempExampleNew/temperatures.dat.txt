@@ -1,0 +1,12 @@
+Dekemwri	0.7
+Oktomwri	1
+Noemwri	1.3
+IAnuari	1.3
+Fewruari	6
+Mart	6
+Spetemwri	7.5
+April	12
+Maj	25
+Awgust	27
+Juni	35
+Juli	35
